@@ -15,7 +15,7 @@ Root: 7'dir.
 0: 7'den küçük, 5'ten küçük, 1'den de küçük olduğu için 1'den sonra edge çekiyorum ve en sona yazıyorum.
 9: 7'den büyük sağ tarafta 8 vardı. 8'den de büyük 8'den sonra edge yapıyorum ve sağ tarafın en sonuna yazıyorum.
 4: 7'den küçük soldan devam ediyorum. 5'den sonra 1 var. O zaman subtree'lerine bakıyorum. Sağ tarafında 6 var. 4, 6'dan küçük o zaman sol tarafta ki 3'ün sağ tarafına yazıyorum.
-2:7'den küçük soldan devam ediyorum. 5'den sonra 1 var. O zaman subtree'lerine bakıyorum. Sağ tarafında 6 var. 2, 6'dan küçük o zaman sol tarafta ki 3'ün sol tarafına yazıyorum.
+2: 7'den küçük soldan devam ediyorum. 5'den sonra 1 var. O zaman subtree'lerine bakıyorum. Sağ tarafında 6 var. 2, 6'dan küçük o zaman sol tarafta ki 3'ün sol tarafına yazıyorum.
 
 
                               [7]
